@@ -21,8 +21,8 @@ To install the necessary dependencies for running the tests, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iKyel/BookDex-Testing.git
-   cd BookDex-Testing
+   git clone https://github.com/iKyel/AutoTest-using-Jest-and-puppeteer.git
+   cd AutoTest-using-Jest-and-puppeteer
    ```
 
 2. Install the required modules:
